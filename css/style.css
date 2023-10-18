@@ -3,7 +3,7 @@
      based on template: What's your solution?
      author: luka cvrk (www.solucija.com)   */
 
-body { 
+body {
 	margin: 0;
 	padding: 0;
 	font: 95% Georgia, Times, Serif;
@@ -90,7 +90,7 @@ img {
 	clear: both;
 	height: 23px;
 	margin: 0 0 10px 0;	
-	font-size: 100%;
+	font-size: 105%;
 }
 
 .subheader_left {
@@ -139,7 +139,7 @@ img {
 	padding: 10px 0 0 5px;
 	width: 210px;
 	text-align : center;
-	font-size: 80%;
+	font-size: 90%;
 }
 
 .left ul{
